@@ -1,4 +1,4 @@
-Kotlin Btc bitcoinj Parse Block Data Demo
-=========================================
+Kotlin Btc bitcoinj Get Raw Block Bytes Demo
+============================================
 
 Run `Hello.kt` in your IDE.
